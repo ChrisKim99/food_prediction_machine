@@ -72,7 +72,7 @@ def fill_blank(filename):
             
             writer.writerow(line)
             #12
-fill_blank("./cse487_project1/data/recipe/2_recipe_with_header.csv")
+#fill_blank("./cse487_project1/data/recipe/2_recipe_with_header.csv")
 
 
 # 3
@@ -126,7 +126,7 @@ def remove_space(filename):
             
     data.to_csv(new_file, index = False)
 
-remove_space("./cse487_project1/data/recipe/3_recipe_with_comma.csv")
+#remove_space("./cse487_project1/data/recipe/3_recipe_with_comma.csv")
 
 # remove duplicated items for each row
 def duplicate(filename):
@@ -162,7 +162,7 @@ def duplicate(filename):
 
         
     df.to_csv("./cse487_project1/data/recipe/5_recipe_no_duplicate.csv", index=False)
-duplicate( "./cse487_project1/data/recipe/4_recipe_with_no_space.csv")
+#duplicate( "./cse487_project1/data/recipe/4_recipe_with_no_space.csv")
 
 
 def helper_non_char(text):
@@ -197,7 +197,7 @@ def remove_non_char(filename):
     data.to_csv(new_file, index = False)
 
 
-remove_non_char("./cse487_project1/data/recipe/5_recipe_no_duplicate.csv")
+#remove_non_char("./cse487_project1/data/recipe/5_recipe_no_duplicate.csv")
 
 # 5
 
@@ -235,7 +235,7 @@ def sorting(filename):
         
     df.to_csv("./cse487_project1/data/recipe/final_recipe.csv", index=False)
 
-sorting("./cse487_project1/data/recipe/6_recipe_without_nonchar.csv")
+#sorting("./cse487_project1/data/recipe/6_recipe_without_nonchar.csv")
 
 # 6 
 
@@ -269,13 +269,13 @@ def only_value(filename):
     data.to_csv(new_file, index=False)
     
 
-only_value("./cse487_project1/data/nutrition/1_nutrition.csv")    
+#only_value("./cse487_project1/data/nutrition/1_nutrition.csv")    
 
 #7
 def filter_no_cal(filename):
-    df = pd.read_csv(filename, index_col="calories")
+    df = pd.read_csv(filename)
 
-    df.drop(0, inplace=True)
+    df = df[df.calories != 0]
 
     df.to_csv("./cse487_project1/data/nutrition/3_nutrition_all_food.csv", index=False)
     
