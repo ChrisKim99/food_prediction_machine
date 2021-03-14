@@ -2,6 +2,8 @@ import pandas as pd
 import csv
 import numpy as np
 import string
+import math
+import re
 
 # count max number of items to fill headers
 def count_max(filename):
@@ -86,7 +88,7 @@ def remove_front_space(text):
         answer = text
         
     if(answer[0] == "(" and answer[len(answer)-1] == ")"):
-        answer = 0
+        answer = '$'
 
     return answer
 
@@ -106,6 +108,7 @@ def remove_back_space(text):
             answer = text
     return answer
 
+# remove unwanted space for items
 def remove_space(filename):
 
     new_file = "./cse487_project1/data/recipe/4_recipe_with_no_space.csv"
@@ -125,7 +128,7 @@ def remove_space(filename):
 
 remove_space("./cse487_project1/data/recipe/3_recipe_with_comma.csv")
 
-# 4
+# remove duplicated items for each row
 def duplicate(filename):
     df = pd.read_csv(filename)
 
@@ -140,7 +143,7 @@ def duplicate(filename):
         items = set()
         
         for field in fields:
-            if(df[field][row] != '$'):
+            if(df[field][row] != '$' and df[field][row] != "half-and-half"):
                 items.add(df[field][row])
         
         items_len = len(items)
@@ -160,6 +163,41 @@ def duplicate(filename):
         
     df.to_csv("./cse487_project1/data/recipe/5_recipe_no_duplicate.csv", index=False)
 duplicate( "./cse487_project1/data/recipe/4_recipe_with_no_space.csv")
+
+
+def helper_non_char(text):
+
+    # remove quotation
+    if not ',' in text:
+        text = text.replace('"',"")
+
+    # remove parenthesis
+    text = re.sub(r" ?\([^)]+\)", "", text)
+
+    # remove common unwanted symbol
+    text = text.replace('-'," ").replace('!',"").replace('.'," ")
+
+    # remove unwanted whitesapce
+    text = text.strip()
+    text = re.sub(' +', ' ', text)
+
+    return text    
+
+
+def remove_non_char(filename):
+
+    new_file = "./cse487_project1/data/recipe/6_recipe_without_nonchar.csv"
+    data = pd.read_csv(filename)
+
+    
+    for idx in range(len(data["title"])):
+
+        data["title"][idx] = helper_non_char(data["title"][idx])
+            
+    data.to_csv(new_file, index = False)
+
+
+remove_non_char("./cse487_project1/data/recipe/5_recipe_no_duplicate.csv")
 
 # 5
 
@@ -197,10 +235,11 @@ def sorting(filename):
         
     df.to_csv("./cse487_project1/data/recipe/final_recipe.csv", index=False)
 
-sorting("./cse487_project1/data/recipe/5_recipe_no_duplicate.csv")
+sorting("./cse487_project1/data/recipe/6_recipe_without_nonchar.csv")
 
 # 6 
 
+# -------------------------------------------------recipe done ------------------------------------------------
 def filter_value(text):
     number = ""
     for let in text:
@@ -242,6 +281,22 @@ def filter_no_cal(filename):
     
 filter_no_cal("./cse487_project1/data/nutrition/2_nutrition_only_num.csv")
 
+
+def remove_non_char_ntr(filename):
+
+    new_file = "./cse487_project1/data/nutrition/4_nutrition_without_nonchar.csv"
+    data = pd.read_csv(filename)
+
+    
+    for idx in range(len(data["title"])):
+
+        data["title"][idx] = helper_non_char(data["title"][idx])
+            
+    data.to_csv(new_file, index = False)
+
+
+remove_non_char_ntr("./cse487_project1/data/nutrition/3_nutrition_all_food.csv")
+
 def sort_ntr(filename):
     df = pd.read_csv(filename)
 
@@ -249,7 +304,7 @@ def sort_ntr(filename):
 
     df.to_csv("./cse487_project1/data/nutrition/final_nutrition.csv", index=False)
 
-sort_ntr("./cse487_project1/data/nutrition/3_nutrition_all_food.csv")    
+sort_ntr("./cse487_project1/data/nutrition/4_nutrition_without_nonchar.csv")    
 
 #
 #def read_recipe(filename):

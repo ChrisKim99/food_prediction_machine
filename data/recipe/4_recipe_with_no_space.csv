@@ -51,7 +51,7 @@ Crock Pot Taco Soup,pinto beans,white beans,corn,Rotel tomatoes & chilies,diced 
 Ww 0 Point Weight Watchers Cabbage Soup,vegetable broth,garlic cloves,tomato paste,cabbage,yellow onion,carrot,green beans,zucchini,basil,oregano,salt & pepper,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$
 Easy Stove-Top Macaroni & Cheese,elbow macaroni,butter,all-purpose flour,salt,black pepper,milk,cheddar cheese,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$
 No-Bake Chocolate Oatmeal Cookies,butter,white sugar,brown sugar,milk,cocoa,kosher salt,creamy peanut butter,vanilla,quick-cooking oats,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$
-Perfect Pork Tenderloin,boneless pork tenderloin,salt and pepper,0,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$
+Perfect Pork Tenderloin,boneless pork tenderloin,salt and pepper,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$
 Soft Peanut Butter Cookies,creamy peanut butter,brown sugar,white sugar,butter,eggs,baking soda,baking powder,vanilla extract,flour,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$
 Restaurant Teriyaki Sauce,soy sauce,water,ground ginger,garlic powder,brown sugar,honey,cornstarch,cold water,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$
 Chicken Tortilla Soup II,carrots,celery,onions,garlic powder,salt,pepper,corn oil,chicken broth,tomatoes,Rotel tomatoes & chilies,taco seasoning,corn,chicken meat,milk,monterey jack cheese,corn tortilla chips,$,$,$,$,$,$,$,$,$,$,$,$,$
@@ -71,7 +71,7 @@ Peach Cobbler,butter,flour,sugar,baking powder,salt,milk,egg,sliced peaches,suga
 Denny's-Style French Toast,eggs,whole milk,flour,sugar,vanilla,salt,cinnamon,Texas toast thick bread,butter,powdered sugar,butter,syrup,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$
 Baked Salmon,garlic cloves,light olive oil,dried basil,salt,ground black pepper,lemon juice,fresh parsley,salmon fillets,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$
 Oven Crisp Chicken Wings,flour,paprika,garlic salt,black pepper,cayenne pepper,butter,chicken wings,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$
-Kittencal's Chocolate Frosting/Icing,butter,confectioners' sugar,half-and-half cream,vanilla,0,0,0,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$
+Kittencal's Chocolate Frosting/Icing,butter,confectioners' sugar,half-and-half cream,vanilla,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$
 Fudge Crinkles (A Great 4 Ingredient Cake Mix Cookie),devil's food cake mix,vegetable oil,eggs,confectioners' sugar,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$
 Crepes,flour,milk,eggs,vegetable oil,salt,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$
 Dutch Apple Pie,ready-made pie crust,cooking apples,lemon juice,granulated sugar,brown sugar,flour,ground cinnamon,nutmeg,flour,granulated sugar,brown sugar,butter,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$
@@ -102,7 +102,7 @@ Tuna Casserole,egg noodles,cream of celery soup,mayonnaise,evaporated milk,chedd
 Chewy Chocolate Cookies,butter,sugar,eggs,vanilla extract,all-purpose flour,cocoa,baking soda,salt,semi-sweet chocolate chips,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$
 The Best Chili You Will Ever Taste,oil,onions,garlic,lean ground beef,beef sirloin,diced tomatoes,dark beer,strong coffee,tomato paste,beef broth,brown sugar,chili sauce,cumin,cocoa,oregano,cayenne,coriander,salt,kidney beans,chili peppers,$,$,$,$,$,$,$,$,$
 Awesome Baked Pork Chops,pork chops,garlic powder,seasoning salt,eggs,all-purpose flour,Italian style breadcrumbs,olive oil,condensed cream of mushroom soup,milk,white wine,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$
-Kittencal's Chicken Crescent Roll Casserole,Pillsbury Refrigerated Crescent Dinner Rolls,cream of chicken soup,cheddar cheese,18% table cream,cream cheese,butter,garlic powder,onion,0,cheddar cheese,seasoning salt,ground black pepper,mayonnaise,cheddar cheese,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$
+Kittencal's Chicken Crescent Roll Casserole,Pillsbury Refrigerated Crescent Dinner Rolls,cream of chicken soup,cheddar cheese,18% table cream,cream cheese,butter,garlic powder,onion,$,cheddar cheese,seasoning salt,ground black pepper,mayonnaise,cheddar cheese,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$
 Homemade Cream of Mushroom Soup,fresh mushrooms,onions,garlic clove,butter,flour,chicken broth,evaporated milk,salt,pepper,nutmeg,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$
 MaMa's Supper Club Tilapia Parmesan,tilapia fillets,lemon juice,parmesan cheese,butter,mayonnaise,green onions,seasoning salt,dried basil,black pepper,hot pepper sauce,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$
 Awesome Baked Ham,whole bone-in ham,brown sugar,yellow mustard,aluminum foil,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$
@@ -160,7 +160,7 @@ Rice Pudding,medium grain rice,water,salt,whole milk,sugar,vanilla,cinnamon,$,$,
 Classic Potato Salad,potatoes,mayonnaise,cider vinegar,sugar,yellow mustard,salt,garlic powder,pepper,celery ribs,onion,hard-boiled eggs,paprika,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$
 Pork Tenderloin,garlic clove,salt,white pepper,thyme,pork tenderloin,olive oil,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$
 "Chicken, Shrimp and Andouille Jambalaya",extra virgin olive oil,boneless skinless chicken thighs,andouille sausage,onion,celery ribs,green bell pepper,red bell pepper,dried thyme,dried oregano,sweet paprika,salt,cayenne pepper,long grain rice,tomatoes,chicken broth,medium shrimp,fresh parsley,green onions,$,$,$,$,$,$,$,$,$,$,$
-The Best Chicken Tortilla Soup,chicken broth,tomato sauce,diced tomatoes,0,anaheim chilies,jalapeno pepper,diced onion,tomatoes,garlic cloves,cilantro,chili powder,cumin,pepper,salt,Tabasco sauce,chipotle pepper,shredded cheddar cheese,avocado,cilantro,lime,tortilla chips,$,$,$,$,$,$,$,$
+The Best Chicken Tortilla Soup,chicken broth,tomato sauce,diced tomatoes,$,anaheim chilies,jalapeno pepper,diced onion,tomatoes,garlic cloves,cilantro,chili powder,cumin,pepper,salt,Tabasco sauce,chipotle pepper,shredded cheddar cheese,avocado,cilantro,lime,tortilla chips,$,$,$,$,$,$,$,$
 Do at Home Onion Rings,egg,vegetable oil,milk,flour,salt,baking powder,sweet onions,flour,oil,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$
 Weight Watchers Parmesan Chicken Cutlets,parmesan cheese,dried Italian seasoned breadcrumbs,paprika,dried parsley,garlic powder,fresh ground pepper,boneless skinless chicken breast,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$
 Cinnamon Raisin Bread for the Bread Machine,water,margarine,flour,sugar,salt,cinnamon,yeast,raisins,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$
@@ -252,15 +252,15 @@ Mahogany Beef Stew,olive oil,boneless beef chuck roast,onions,red wine,diced tom
 Simple Baked Chicken Drumsticks,chicken drumsticks,garlic powder,pepper,salt,olive oil,rosemary,parsley,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$
 Very Moist Banana Nut Bread,sugar,salt,flour,vegetable oil,eggs,vanilla,baking soda,buttermilk,pecans,bananas,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$
 Top Rated Classic Meatloaf,ground beef,cracker crumb,salt,pepper,egg,onion,tomato sauce,ketchup,brown sugar,water,mustard,vinegar,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$
-Crumb Topped Banana Muffins,flour,baking soda,baking powder,salt,bananas,sugar,egg,butter,brown sugar,flour,cinnamon,butter,0,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$
-Granny's Slow Cooker Vegetarian Chili,condensed black bean soup,kidney beans,garbanzo beans,vegetarian baked beans,tomato puree,whole kernel corn,onion,green bell pepper,zucchini,celery,garlic cloves,chilies,0,chili powder,cumin,dried parsley,dried oregano,dried basil,cilantro,$,$,$,$,$,$,$,$,$,$
+Crumb Topped Banana Muffins,flour,baking soda,baking powder,salt,bananas,sugar,egg,butter,brown sugar,flour,cinnamon,butter,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$
+Granny's Slow Cooker Vegetarian Chili,condensed black bean soup,kidney beans,garbanzo beans,vegetarian baked beans,tomato puree,whole kernel corn,onion,green bell pepper,zucchini,celery,garlic cloves,chilies,$,chili powder,cumin,dried parsley,dried oregano,dried basil,cilantro,$,$,$,$,$,$,$,$,$,$
 Wet Burritos,lean ground beef,garlic,onion,Worcestershire sauce,paprika,Mexican oregano,chili powder,cumin,black pepper,tomatoes,cheddar cheese,flour tortillas,refried beans,cumin,enchilada sauce,homestyle beef gravy,sour cream,onion,salsa,jalapeno,lettuce,chopped tomato,$,$,$,$,$,$,$
 Patti Labelle's Macaroni and Cheese,vegetable oil,macaroni,butter,butter,muenster cheese,mild cheddar cheese,sharp cheddar cheese,monterey jack cheese,half-and-half,Velveeta cheese,eggs,seasoning salt,fresh ground pepper,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$
-Old Bay Shrimp Boil,Old Bay Seasoning,salt,water,beer,red potatoes,vidalia onions,smoked sausage,0,large shrimp,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$
+Old Bay Shrimp Boil,Old Bay Seasoning,salt,water,beer,red potatoes,vidalia onions,smoked sausage,$,large shrimp,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$
 N. Y. C. Corned Beef and Cabbage,corned beef brisket,peppercorn,dried bay leaves,cabbage,red potatoes,fresh carrot,fresh parsley,real butter,fresh garlic clove,sweet onion,yellow mustard,N .y. C. Irish Soda Bread,Harp lager beer,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$
 Ground Beef Gyros,plain yogurt,cucumber,onions,garlic clove,sugar,lean ground beef,dried oregano,garlic powder,onion powder,salt,pepper,pita breads,lettuce,tomatoes,onion,$,$,$,$,$,$,$,$,$,$,$,$,$,$
 Simple Oven-Baked Sea Bass,sea bass,garlic cloves,extra virgin olive oil,fresh parsley leaves,fresh coarse ground black pepper,salt,lemon wedges,white wine vinegar,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$
-Copy-Cat Panera Cream of Chicken and Wild Rice Soup,chicken broth,chicken breast halves,0,ground black pepper,all-purpose flour,butter,carrot,celery,onion,light cream,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$
+Copy-Cat Panera Cream of Chicken and Wild Rice Soup,chicken broth,chicken breast halves,$,ground black pepper,all-purpose flour,butter,carrot,celery,onion,light cream,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$
 Charlie's Famous Chicken Salad With Grapes,diced cooked chicken,celery,seedless grapes,walnuts,onion,salt,Worcestershire sauce,Miracle Whip,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$
 Extremely Soft White Bread  (Bread Machine),hot water,yeast,sugar,vegetable oil,salt,white flour,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$
 "Milk-Free, Egg-Free Pancakes",white flour,white sugar,baking powder,salt,margarine,water,eggs,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$
@@ -274,7 +274,7 @@ Fajita Seasoning Mix,cornstarch,chili powder,salt,paprika,sugar,chicken bouillon
 Copycat Applebee's Hot Artichoke and Spinach Dip,frozen chopped spinach,artichoke hearts,parmesan-romano cheese mix,mozzarella cheese,roasted garlic alfredo sauce,cream cheese,pepper,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$
 Gordon Ramsay's Yorkshire Pudding,eggs,whole milk,coarse salt,all-purpose flour,vegetable oil,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$
 """ Ant"" Kelly's London Broil Marinade",balsamic vinegar,soy sauce,Worcestershire sauce,olive oil,garlic cloves,rosemary,fresh ground black pepper,london broil beef,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$
-Oven-Roasted Corn on the Cob,0,water,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$
+Oven-Roasted Corn on the Cob,$,water,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$
 Jolean's Cheese Potato & Smoked Sausage Casserole,idaho potatoes,butter,flour,milk,salt,pepper,Velveeta cheese,sharp cheddar cheese,smoked sausage,paprika,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$
 Crusty French Bread,warm water,yeast,vegetable oil,sugar,salt,bread flour,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$
 Balsamic Chicken Thighs,skinless chicken thighs,salt and pepper,shallot,balsamic vinegar,cooking spray,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$
@@ -306,7 +306,7 @@ Turkey Meatballs,lean ground turkey,garlic cloves,onion,parsley,salt,pepper,oreg
 Why-I-Joined-Zaar Carrot Cake,all-purpose flour,baking soda,baking powder,salt,ground cinnamon,white sugar,vegetable oil,eggs,vanilla extract,carrots,flaked coconut,walnuts,crushed pineapple,cream cheese,butter,icing sugar,$,$,$,$,$,$,$,$,$,$,$,$,$
 Kittencal's Taco Seasoning Mix,mild chili powder,garlic powder,onion powder,dried oregano,paprika,cumin,seasoning salt,black pepper,cayenne pepper,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$
 Chinese Egg Rolls,egg roll wraps,ground pork,fresh ginger,garlic cloves,salt,sugar,soy sauce,sesame oil,cabbage and carrot coleslaw mix,green onions,egg,water,oil,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$
-General Tso's Chicken,boneless skinless chicken breasts,green onions,0,soy sauce,egg,cornstarch,cornstarch,water,fresh garlic,sugar,soy sauce,white vinegar,sherry wine,chicken broth,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$
+General Tso's Chicken,boneless skinless chicken breasts,green onions,$,soy sauce,egg,cornstarch,cornstarch,water,fresh garlic,sugar,soy sauce,white vinegar,sherry wine,chicken broth,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$
 Neiman-Marcus $250 Chocolate Chip Cookies Recipe,butter,flour,baking soda,sugar,blended oatmeal,chocolate chips,brown sugar,salt,Hershey Bars,eggs,baking powder,vanilla,chopped nuts,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$
 Jewelry Cleaner,salt,baking soda,dish detergent,water,aluminum foil,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$
 Boeuf Bourguignon a La Julia Child,bacon,olive oil,lean stewing beef,carrot,onion,salt,pepper,flour,red wine,beef stock,tomato paste,garlic cloves,thyme,bay leaf,white pearl onions,unsalted butter,olive oil,beef stock,salt & fresh ground pepper,bay leaf,thyme,parsley,mushroom,unsalted butter,olive oil,$,$,$,$
@@ -332,7 +332,7 @@ Gluten Free French Bread,rice flour,tapioca flour,xanthan gum,salt,egg substitut
 The Best Sweet and Sour Sauce,pineapple juice,water,vinegar,soy sauce,brown sugar,cornstarch,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$
 Stir-Fry Chicken With Garlic Sauce,garlic cloves,soy sauce,water,honey,vegetable oil,cornstarch,pepper,crushed red pepper flakes,boneless skinless chicken breast,green onion,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$
 Basic Batter Waffles,eggs,milk,vegetable oil,all-purpose flour,baking powder,sugar,salt,vanilla,maple extract,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$
-Kittencal's Scalloped Potato and Ground Beef Casserole,ground beef,onion,green bell pepper,garlic cloves,dried chili pepper flakes,seasoning salt,fresh ground black pepper,russet potatoes,shredded cheddar cheese,0,onion,light cream,sour cream,parmesan cheese,garlic powder,seasoning salt,fresh ground black pepper,$,$,$,$,$,$,$,$,$,$,$,$
+Kittencal's Scalloped Potato and Ground Beef Casserole,ground beef,onion,green bell pepper,garlic cloves,dried chili pepper flakes,seasoning salt,fresh ground black pepper,russet potatoes,shredded cheddar cheese,$,onion,light cream,sour cream,parmesan cheese,garlic powder,seasoning salt,fresh ground black pepper,$,$,$,$,$,$,$,$,$,$,$,$
 Almost White Castle Hamburgers,ground chuck,onion soup mix,egg,pepper,water,breadcrumbs,square dinner rolls,American cheese,pickle,mustard,ketchup,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$
 Yummy Crunchy Apple Pie,pastry for single-crust pie,sugar,flour,cinnamon,nutmeg,allspice,salt,apples,brown sugar,flour,quick-cooking rolled oats,butter,pecans,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$
 Baked Tilapia With Lots of Spice,salt,paprika,onion powder,dry mustard,garlic powder,pepper,cumin,basil,italian seasoning,tilapia fillets,breadcrumbs,green onions,dried parsley flakes,olive oil,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$
@@ -362,7 +362,7 @@ Copycat Recipe for Carrabba's Chicken Marsala,butter,boneless skinless chicken b
 The Ultimate Greek Salad,olive oil,fresh lemon juice,red wine vinegar,garlic cloves,dried oregano,lettuce,plum tomatoes,English cucumber,red onion,green pepper,kalamata olive,feta cheese,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$
 Tub and Shower Magic,white vinegar,liquid,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$
 Pepper Steak,beef top round steak,olive oil,onion,garlic,beef broth,light soy sauce,sugar,pepper,celery,green bell pepper,red bell pepper,yellow bell pepper,chopped tomato,cornstarch,water,$,$,$,$,$,$,$,$,$,$,$,$,$,$
-Crunchy Granola,brown sugar,water,pure vanilla extract,salt,rolled oats,pecans,almonds,0,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$
+Crunchy Granola,brown sugar,water,pure vanilla extract,salt,rolled oats,pecans,almonds,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$
 Taco Soup,ground turkey,onion,hidden valley ranch dressing mix,taco seasoning mix,pinto beans,chili beans,salt,black pepper,chili powder,whole kernel corn,Mexican-style tomatoes,diced tomatoes,water,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$
 Pineapple Upside Down Cake,butter,dark brown sugar,pineapple,maraschino cherries,duncan hines supreme pineapple cake mix,vanilla instant pudding mix,pineapple juice,canola oil,eggs,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$
 Brown Rice and Lentil Casserole,chicken broth,lentils,brown rice,onion,italian seasoning,garlic powder,cheese,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$
@@ -392,7 +392,7 @@ Deliciously Cheesy Baked Ziti,ziti pasta,Italian sausage,ricotta cheese,egg,pars
 Ww 5 Can Soup,diced tomatoes,corn,minestrone soup,mixed vegetables,black beans,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$
 Magnolia Bakery's Vanilla Birthday Cake and Frosting,unsalted butter,sugar,eggs,self rising flour,all-purpose flour,milk,vanilla,unsalted butter,confectioners' sugar,milk,vanilla,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$
 Sausage Gravy,pork sausage,flour,milk,pepper,Pillsbury Grands refrigerated buttermilk biscuits,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$
-Salmon Patties,salmon,eggs,0,parsley flakes,red pepper flakes,salt & pepper,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$
+Salmon Patties,salmon,eggs,$,parsley flakes,red pepper flakes,salt & pepper,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$
 Butterfinger Pie,butterfinger candy bars,cream cheese,Cool Whip,graham cracker crust,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$
 Tilapia Al Ajillo (Garlic Tilapia),tilapia fillets,garlic cloves,olive oil,salt and pepper,lemon,parsley,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$
 Parmesan Crusted Tilapia,tilapia fillets,crushed Ritz cracker,parmesan cheese,italian seasoning,garlic powder,lemon juice,salt,pepper,garlic powder,olive oil,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$
@@ -404,7 +404,7 @@ Pork Chops Yum-Yum,pork chops,chicken broth,honey,soy sauce,ketchup,ginger,garli
 Turkey Breakfast Sausage Patties,ground turkey,salt,sage,fennel seed,thyme,black pepper,white pepper,cayenne,garlic powder,ground cloves,nutmeg,allspice,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$
 Beer 'n BBQ Braised Country Style Pork Ribs,country-style boneless pork ribs,onions,beer,barbecue sauce,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$
 Unbelievably Easy Potato Soup,potato,celery,onion,half-and-half,salt and pepper,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$
-Pizza Casserole,bow tie pasta,0,onion,spaghetti sauce,cooked ham,of sliced pepperoni,mozzarella cheese,parmesan cheese,garlic powder,dried oregano,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$
+Pizza Casserole,bow tie pasta,$,onion,spaghetti sauce,cooked ham,of sliced pepperoni,mozzarella cheese,parmesan cheese,garlic powder,dried oregano,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$
 Chile Verde Con Cerdo (Green Chili With Pork),pork roast,bacon grease,onion,garlic,flour,tomatoes,diced green chilies,diced tomatillos,jalapenos,water,chili powder,salt,cumin,oregano,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$
 Buffalo Chicken Dip,cream cheese,ranch dressing,red hot sauce,chicken,shredded cheddar cheese,Frito corn chip,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$
 Pork Roast the Old-Fashion Way (Cast Iron Dutch Oven),pork roast,garlic cloves,onion,water,Kitchen Bouquet,black pepper,salt,lard,cornstarch,water,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$
@@ -465,7 +465,7 @@ Crispy Tilapia,tilapia fillets,flour,egg,buttermilk,flour,yellow cornmeal,salt,p
 Baked Stuffed Pasta Shells,jumbo pasta shells,mozzarella cheese,parmesan cheese,ricotta cheese,eggs,nutmeg,black pepper,garlic powder,dried parsley,spaghetti sauce,fresh basil,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$
 Healthy Honey Oatmeal Cookies,butter,brown sugar,honey,egg,water,whole wheat flour,salt,baking soda,rolled oats,chocolate chips,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$
 "Taco Seasoning - Budget Friendly Seasoning for Tacos, Burritos..",chili powder,paprika,cumin,oregano,garlic powder,onion powder,cayenne pepper,salt,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$
-Parmesan Sage Pork Chops,breadcrumbs,parmesan cheese,dried rubbed sage,lemon rind,eggs,flour,salt and pepper,0,butter,olive oil,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$
+Parmesan Sage Pork Chops,breadcrumbs,parmesan cheese,dried rubbed sage,lemon rind,eggs,flour,salt and pepper,$,butter,olive oil,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$
 Frito Lay Bean Dip,refried beans,bottled jalapenos,brine,salt,granulated sugar,onion powder,paprika,garlic powder,cayenne pepper,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$
 Easy Lemon Pound Cake,butter,sugar,eggs,lemon juice,salt,flour,baking powder,milk,lemon juice,sugar,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$
 Roasted Tomato Soup,plum tomatoes,garlic cloves,red onion,olive oil,balsamic vinegar,oregano,basil leaves,salt,pepper,fat-free chicken broth,parmesan cheese,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$
@@ -478,7 +478,7 @@ Baked Ziti,ziti pasta,ricotta cheese,mozzarella cheese,spaghetti sauce,parmesan 
 La Madeleine's Tomato-Basil Soup,fresh tomatoes,tomato juice,basil leaves,heavy cream,sweet unsalted butter,salt,cracked black pepper,lemon juice,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$
 Crock Pot Chicken Cacciatore,chicken,onion,tomato paste,sliced mushrooms,green bell pepper,garlic cloves,oregano,dried basil,celery powder,salt,dry white wine,olive oil,crushed red pepper flakes,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$
 Herbed Pork Tenderloin,onions,oil,lemon juice,rosemary,thyme,oregano,basil,paprika,garlic,salt,pepper,pork tenderloin,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$
-Minado's Perfect Sushi Rice,sushi rice,water,rice vinegar,sugar,salt,mirin,0,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$
+Minado's Perfect Sushi Rice,sushi rice,water,rice vinegar,sugar,salt,mirin,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$
 4 Minute Spicy Garlic Shrimp,shrimp,olive oil,garlic cloves,red pepper flakes,steak seasoning,lemon,lemon juice,fresh parsley,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$
 Peanut Butter Popcorn,light corn syrup,sugar,peanut butter,vanilla,popped popcorn,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$
 Ciabatta (Italian Slipper Bread),active dry yeast,water,water,bread flour,active dry yeast,milk,water,olive oil,bread flour,salt,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$
@@ -507,7 +507,7 @@ Bisquick Blueberry Muffins,Bisquick,sugar,milk,vegetable oil,egg,frozen blueberr
 "Roast ""Sticky"" Chicken",salt,paprika,cayenne pepper,onion powder,thyme,white pepper,garlic powder,black pepper,roasting chicken,onions,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$
 Drunken Garlic Crock Pot Roast,boneless beef chuck roast,vegetable oil,salt,pepper,onions,garlic cloves,beef bouillon cubes,hot water,lager beer,brown sugar,Dijon mustard,cider vinegar,cornstarch,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$
 Make-Ahead Twice-Baked Potatoes,baking potatoes,butter,milk,fat free cream cheese,salt,ground black pepper,sharp cheddar cheese,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$
-Crock Pot Creamy Italian Chicken,boneless skinless chicken breasts,dried Italian salad dressing mix,water,cream cheese,0,mushroom stems and pieces,cooked rice,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$
+Crock Pot Creamy Italian Chicken,boneless skinless chicken breasts,dried Italian salad dressing mix,water,cream cheese,$,mushroom stems and pieces,cooked rice,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$
 Fresh Blueberry Cobbler,all-purpose flour,sugar,salt,baking powder,whole milk,butter,fresh blueberries,sugar,vanilla extract,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$
 Lemon Rice,water,chicken broth,lemon juice,butter,rice,dried basil,lemon,lemon pepper seasoning,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$
 Nestle' Oatmeal Scotchies,unsifted flour,baking soda,salt,cinnamon,butter,brown sugar,granulated sugar,eggs,vanilla extract,Old-Fashioned Quaker oats,NESTLÉ® TOLL HOUSE® Butterscotch Flavored Morsels,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$
@@ -545,7 +545,7 @@ Roasted Asparagus with Feta,asparagus,olive oil,garlic,lemon,dried oregano,red p
 Thai Coconut Rice,long grain rice,coconut milk,water,salt,sugar,crushed red pepper flakes,turmeric,fresh ginger,crystallized ginger,sliced almonds,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$
 Loaded Potato and Buffalo Chicken Casserole,boneless skinless chicken breasts,potatoes,olive oil,salt,fresh ground pepper,paprika,garlic powder,hot sauce,monterey jack and cheddar cheese blend,crumbled cooked bacon,green onion,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$
 Uncle Bill's Whipped Shortbread Cookies,butter,all-purpose flour,icing sugar,vanilla extract,red maraschino cherry,green maraschino cherry,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$
-Baked Brie in Puff Pastry With Apricot or Raspberry Preserves,frozen puff pastry,brie cheese,0,your favorite preserves,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$
+Baked Brie in Puff Pastry With Apricot or Raspberry Preserves,frozen puff pastry,brie cheese,$,your favorite preserves,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$
 Perfect Southern Fried Chicken,chicken,water,salt,buttermilk,eggs,Season-All salt,flour,cornmeal,dried oregano,Season-All salt,shortening,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$
 Philly Cheesesteak Sandwich  (((Authentic))),sub rolls,deli roast beef,white onion,green bell pepper,garlic,provolone cheese,extra virgin olive oil,salt and pepper,ketchup,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$
 Red Lobster Cheddar Bay Biscuits,Bisquick,milk,shredded cheddar cheese,butter,garlic powder,Old Bay Seasoning,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$
@@ -555,7 +555,7 @@ Classic Black Beans and Rice,olive oil,onion,green pepper,garlic,black beans,wat
 Soft and Chewy Chocolate Chip Cookies,sugar,brown sugar,margarine,vanilla,eggs,all-purpose flour,baking soda,salt,semi-sweet chocolate chips,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$
 Sweet Potato (Yam) Casserole With Marshmallows,bruce cut yams,brown sugar,salt,cinnamon,egg,butter,miniature marshmallows,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$
 Ham Hocks and Beans,dry beans,ham hocks,onion,garlic,bay leaf,oregano,pepper,salt,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$
-Lazy Slow Cooker Creamy Chicken Noodle Soup,0,onion,celery,carrot,frozen peas,low sodium chicken broth,condensed cream of mushroom soup,fines herbes,salt,pepper,egg noodles,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$
+Lazy Slow Cooker Creamy Chicken Noodle Soup,$,onion,celery,carrot,frozen peas,low sodium chicken broth,condensed cream of mushroom soup,fines herbes,salt,pepper,egg noodles,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$
 Red Chili Sauce  (To Be Used With Traditional Tamales),dried chilies,garlic cloves,ground cumin,salt,all-purpose flour,olive oil,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$
 Rhubarb Crisp,rhubarb,sugar,flour,cinnamon,flour,brown sugar,rolled oats,butter,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$
 Chewy Cranberry Oatmeal Cookies,all-purpose flour,baking soda,salt,ground cinnamon,old fashioned oats,unsalted butter,light brown sugar,granulated sugar,eggs,honey,pure vanilla extract,dried cranberries,pecans,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$
@@ -565,7 +565,7 @@ Garlic Butter Rice,margarine,white rice,chicken bouillon cubes,water,garlic,$,$,
 Crook's Corner Shrimp and Grits,water,chicken broth,half-and-half,salt,grits,cheddar cheese,parmesan cheese,butter,Tabasco sauce,white pepper,bacon,medium shrimp,black pepper,salt,flour,sliced mushrooms,green onion,garlic,fat-free low-sodium chicken broth,fresh lemon juice,Tabasco sauce,lemon wedge,$,$,$,$,$,$,$
 Dr. Pat's Hot Toddy Cold Remedy,water,tea bag,whiskey,honey,lemon juice,fresh lemon,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$
 My Chicken Parmigiana,boneless skinless chicken breast halves,egg,Italian seasoned breadcrumbs,margarine,prepared spaghetti sauce,mozzarella cheese,parmesan cheese,fresh parsley,cooked spaghetti,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$
-Bread Pudding,eggs,whipping cream,milk,sugar,salt,vanilla,0,raisins,cinnamon,flour,butter,brown sugar,boiling water,vanilla,sugar,cornstarch,salt,boiling water,butter,lemon rind,fresh lemon juice,lemon extract,$,$,$,$,$,$,$
+Bread Pudding,eggs,whipping cream,milk,sugar,salt,vanilla,$,raisins,cinnamon,flour,butter,brown sugar,boiling water,vanilla,sugar,cornstarch,salt,boiling water,butter,lemon rind,fresh lemon juice,lemon extract,$,$,$,$,$,$,$
 Mandarin Salad,vegetable oil,cider vinegar,sugar,fresh parsley,salt,hot pepper sauce,sliced almonds,sugar,iceberg lettuce,romaine lettuce,celery,mandarin oranges,red onion,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$
 Velveeta Cheese Sauce for Cauliflower and Broccoli,butter,flour,half-and-half cream,Velveeta cheese,salt,black pepper,sugar,paprika,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$
 Baked Chicken Thighs/Leg Quarters,chicken thighs,garlic powder,soy sauce,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$
@@ -598,7 +598,7 @@ Enchilada Sauce,olive oil,garlic,onion,dried oregano,chili powder,dried basil,gr
 Funky Chicken With Sesame Noodles,spaghettini,soy sauce,sesame oil,sugar,scallions,sesame seeds,soy sauce,teriyaki sauce,garlic cloves,brown sugar,fresh ginger,boneless skinless chicken breasts,sesame oil,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$
 Asian Pork Tenderloin,soy sauce,sesame oil,light brown sugar,Worcestershire sauce,lemon juice,garlic,dry mustard,pepper,pork tenderloin,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$
 Old Fashion Berry Cobbler,granulated sugar,butter,milk,flour,baking powder,salt,berries,granulated sugar,butter,boiling water,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$
-Authentic Mexican Pozole,pork shoulder,garlic cloves,cumin powder,onion,garlic cloves,oil,black pepper,cayenne,chili powder,salt,oregano,white hominy,pork broth,diced green chilis,salt,0,ancho chilies,$,$,$,$,$,$,$,$,$,$,$,$
+Authentic Mexican Pozole,pork shoulder,garlic cloves,cumin powder,onion,garlic cloves,oil,black pepper,cayenne,chili powder,salt,oregano,white hominy,pork broth,diced green chilis,salt,$,ancho chilies,$,$,$,$,$,$,$,$,$,$,$,$
 Weight Watcher 1 Point Banana Bread--Flex Points,bananas,Splenda sugar substitute,natural applesauce,all-purpose flour,whole wheat flour,salt,baking soda,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$
 Creamy Ramen Noodles,ramen noodles,water,butter,milk,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$
 Oreo Truffles,Oreo cookies,cream cheese,vanilla extract,milk chocolate,white chocolate,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$
@@ -667,7 +667,7 @@ Italian Dressing Seasoning Dry Mix,garlic powder,onion powder,oregano,dried pars
 The Lady's Perfect Scrambled Eggs ( Paula Deen ),eggs,sour cream,water,salt & freshly ground black pepper,butter,cheddar cheese,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$
 Perfect Pot Roast (Slow-Cooker),beef roast,potatoes,baby carrots,onion,beef broth,dry vegetable soup mix,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$
 Ex-Mother in Law's Pork Chops With Cream of Mushroom,pork loin chops,cream of mushroom soup,Lawry's Seasoned Salt,lawry seasoned pepper,butter,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$
-Kittencal's Extreme Chocolate Brownies,butter,sugar,water,0,vanilla,eggs,flour,baking soda,salt,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$
+Kittencal's Extreme Chocolate Brownies,butter,sugar,water,$,vanilla,eggs,flour,baking soda,salt,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$
 Best Lemon Blueberry Bundt Cake,flour,baking powder,baking soda,salt,butter,sugar,eggs,lemon juice,lemon zest,vanilla extract,buttermilk,blueberries,flour,confectioners' sugar,lemon juice,corn syrup,lemon zest,$,$,$,$,$,$,$,$,$,$,$,$
 Yeast Biscuits,yeast,water,flour,baking powder,baking soda,salt,sugar,shortening,buttermilk,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$
 Baked Italian Meatballs,lean ground beef,parmesan cheese,Italian seasoned breadcrumbs,fresh parsley,tomato sauce,mustard powder,dried Italian seasoning,low sodium salt,crushed red pepper flakes,garlic,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$
@@ -725,7 +725,7 @@ Tomato and Basil Bruschetta,roma tomatoes,garlic,garlic,olive oil,balsamic vineg
 Louisiana Style Blackened Chicken,skinless chicken pieces,vegetable oil,salad leaves,salt,oregano,dried thyme,black pepper,white pepper,onion powder,garlic powder,paprika,cayenne pepper,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$
 Pumpkin Pie Dip,cream cheese,powdered sugar,pumpkin pie filling,ground cinnamon,ground ginger,apple,gingersnaps,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$
 Strawberry Pretzel Salad,crushed pretzels,butter,white sugar,cream cheese,white sugar,frozen whipped topping,strawberry gelatin,boiling water,frozen strawberries,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$
-Slow Cooker Split Pea Soup,water,0,salt,pepper,carrots,celery,onion,ham shanks,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$
+Slow Cooker Split Pea Soup,water,$,salt,pepper,carrots,celery,onion,ham shanks,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$
 Moist Roasted Whole Chicken,roasting chicken,olive oil,salt,ground black pepper,dried oregano,dried basil,paprika,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$
 7-Up Biscuits,baking mix,sour cream,7-Up soda,butter,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$
 Quinoa Black Bean Salad,quinoa,water,olive oil,fresh lime juice,cumin,coriander,cilantro,scallions,black beans,diced tomatoes,bell pepper,jalapeno chiles,salt and pepper,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$
@@ -751,7 +751,7 @@ Pumpkin Dog Biscuits,eggs,canned pumpkin,salt,dry milk,flour,water,$,$,$,$,$,$,$
 New York Crumb Cake,canola oil,all-purpose flour,granulated sugar,baking powder,salt,egg,milk,pure vanilla extract,light-brown sugar,ground cinnamon,unsalted butter,confectioners' sugar,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$
 Seafood Chowder,butter,celery,onion,cayenne pepper,dried thyme,dried marjoram,flour,milk,condensed cream of potato soup,clams,fresh parsley,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$
 Easy Baked Orange Roughy,orange roughy fillets,seasoning salt,pepper,paprika,butter,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$
-The Ultimate Strawberry Shortcake,fresh strawberries,sugar,cream cheese,powdered sugar,frozen whipped topping,0,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$
+The Ultimate Strawberry Shortcake,fresh strawberries,sugar,cream cheese,powdered sugar,frozen whipped topping,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$
 Traditional Mexican Wedding Cookies,butter,powdered sugar,vanilla,sifted flour,salt,walnuts,powdered sugar,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$
 Crock-Pot Potato Chowder,potatoes,onion,chicken broth,condensed cream of chicken soup,cream cheese,bacon,chives,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$
 Simple Tomato Sandwich,bread,tomatoes,Miracle Whip,salt,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$
@@ -800,7 +800,7 @@ Mini Pigs-In-A-Blanket,Little Smokies sausage,crescent roll,parmesan cheese,garl
 Beth's Pizza Crust,yeast,water,flour,olive oil,sugar,salt,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$
 Pasta with Mushroom Garlic Sauce,linguine,butter,garlic,mushrooms,dried basil,salt,pepper,olive oil,fresh parsley,parmesan cheese,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$
 Mom's Chocolate Gravy,granulated sugar,butter,milk,flour,unsweetened cocoa powder,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$
-Mama Iuliucci's Famous Meat-A-Balls (Italian Meatballs),lean ground beef,0,eggs,garlic powder,italian seasoning,parsley flakes,parmesan cheese,salt,black pepper,olive oil,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$
+Mama Iuliucci's Famous Meat-A-Balls (Italian Meatballs),lean ground beef,$,eggs,garlic powder,italian seasoning,parsley flakes,parmesan cheese,salt,black pepper,olive oil,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$
 Caramel Puff Corn,corn,butter,brown sugar,light corn syrup,baking soda,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$
 Bev's Macaroni and Cheese,butter,flour,salt,dry mustard,pepper,milk,cheddar cheese,elbow macaroni,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$
 Gallo Pinto (Costa Rican Rice and Beans),canola oil,onion,garlic cloves,cooked white rice,black beans,ground cumin,ground coriander,ground ginger,vegetarian worcestershire sauce,salt & freshly ground black pepper,fresh cilantro,green onion,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$
@@ -813,7 +813,7 @@ Country Fried Steak,cube steaks,all-purpose flour,all-purpose flour,salt,pepper,
 Meatball Subs (Crock Pot),lean ground beef,dry breadcrumbs,onions,salt,Worcestershire sauce,egg,parmesan cheese,spaghetti sauce,hot dog buns,mozzarella cheese,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$
 Cake Flour Substitute,all-purpose flour,cornstarch,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$
 Chicken Pot Pie with Biscuit Crust,butter,all-purpose flour,onion,salt,pepper,chicken broth,milk,chicken,frozen peas and carrots,flour,baking powder,salt,butter,milk,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$
-Dutch Baby,milk,unbleached all-purpose flour,eggs,sugar,pure vanilla extract,unsalted butter,confectioners' sugar,0,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$
+Dutch Baby,milk,unbleached all-purpose flour,eggs,sugar,pure vanilla extract,unsalted butter,confectioners' sugar,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$
 Salsa Chicken,boneless skinless chicken breast halves,taco seasoning mix,salsa,cheddar cheese,sour cream,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$
 The  Blue Mill Tavern Loosemeat Sandwich,ground beef round,Crisco,salt,onion,prepared yellow mustard,vinegar,sugar,water,salt and pepper,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$
 Papa John's Pizza Sauce,tomato puree,water,sugar,olive oil,lemon juice,salt,oregano,basil,thyme,garlic powder,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$
@@ -834,7 +834,7 @@ Sweet Potato Casserole,sweet potatoes,sugar,eggs,margarine,milk,vanilla,brown su
 Crock Pot Ham Bone and Beans,ham bone,yellow onion,celery,carrot,bay leaves,garlic,great northern bean,low sodium chicken broth,pepper,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$
 Pizza Hut Pizza Sauce - ( Copycat),tomato sauce,water,sugar,dried oregano,dried basil leaves,dried thyme,garlic powder,salt,black pepper,whole bay leaf,lemon juice,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$
 Best Pumpkin Cookies,butter,sugar,brown sugar,canned pumpkin,egg,vanilla extract,flour,baking soda,baking powder,cinnamon,ground nutmeg,salt,butter,dark brown sugar,milk,confectioners' sugar,$,$,$,$,$,$,$,$,$,$,$,$,$
-Faux Febreeze,ultra downy clean breeze fabric softener,water,0,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$
+Faux Febreeze,ultra downy clean breeze fabric softener,water,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$
 Flour Tortilla Recipe,flour,salt,vegetable shortening,baking powder,warm water,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$
 Easy No Rise Pizza Crust,dry yeast,warm water,flour,olive oil,sugar,salt,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$
 Soft Batch Chocolate Chip Cookies,butter,sugar,light brown sugar,eggs,vanilla,flour,baking soda,instant vanilla pudding,milk chocolate chips,walnuts,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$
@@ -851,7 +851,7 @@ Roasted Cauliflower,cauliflower,extra virgin olive oil,garlic salt,pepper,chili 
 Flounder Stuffed With Shrimp and Crabmeat,olive oil,butter,onion,garlic cloves,celery,red bell pepper,shrimp,salt,cayenne,lump crabmeat,Italian seasoned breadcrumbs,flounder,butter,lemon juice,kosher salt,black pepper,paprika,lemon,$,$,$,$,$,$,$,$,$,$,$
 Low-Fat Oatmeal Muffins,rolled oats,skim milk,whole wheat flour,brown sugar,unsweetened applesauce,egg whites,baking powder,baking soda,salt,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$
 Toll House Butterscotch Chip Cookies,flour,sugar,brown sugar,vanilla,butter,baking soda,salt,eggs,butterscotch chips,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$
-Pork Souvlaki,boneless pork loin,lemon juice,olive oil,garlic cloves,dried oregano,salt,pepper,0,Greek pita breads,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$
+Pork Souvlaki,boneless pork loin,lemon juice,olive oil,garlic cloves,dried oregano,salt,pepper,$,Greek pita breads,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$
 Creamy Macaroni & Cheese - for Two or One,pasta,butter,salt,ground black pepper,onion,flour,milk,sharp cheddar cheese,sharp cheddar cheese,chives,red pepper flakes,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$
 7 - Day - Soup Diet Recipe,crushed plum tomatoes,pasta sauce,tomato paste,green onions,beef broth,celery & tops,fresh green beans,green bell peppers,carrots,chili powder,coarse salt,paprika,cayenne pepper,prepared mustard,ground black pepper,$,$,$,$,$,$,$,$,$,$,$,$,$,$
 Lemon Poppy Seed Muffins,sweet creamy butter,sugar,eggs,flour,baking powder,baking soda,poppy seeds,lemons,salt,buttermilk,lemon juice,vanilla,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$
@@ -874,10 +874,10 @@ Corn Casserole (Paula Deen),whole kernel corn,cream-style corn,corn muffin mix,s
 Cajun Seasoning Mix,white pepper,garlic powder,onion powder,cayenne pepper,paprika,ground black pepper,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$
 Granny's Sugar Cookies,sugar,butter,eggs,vanilla extract,all-purpose flour,salt,baking soda,cream of tartar,powdered sugar,butter,vanilla extract,various food coloring,colored sprinkles,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$
 Spanish Chicken & Rice Bake,cream of chicken soup,salsa,water,whole kernel corn,long-grain white rice,boneless chicken breast halves,chili powder,shredded cheddar cheese,canned black beans,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$
-Lasagna in a Skillet - in About 30 Minutes!,meatloaf mix,garlic cloves,red pepper flakes,salt & fresh ground pepper,0,marinara sauce,water,mozzarella cheese,parmesan cheese,whole milk ricotta cheese,fresh basil,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$
+Lasagna in a Skillet - in About 30 Minutes!,meatloaf mix,garlic cloves,red pepper flakes,salt & fresh ground pepper,$,marinara sauce,water,mozzarella cheese,parmesan cheese,whole milk ricotta cheese,fresh basil,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$
 My Own Cube Steak and Gravy,cubed steak,oil,butter,flour,salt,onion powder,garlic powder,black pepper,cream of mushroom soup,water,heavy whipping cream,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$
 Baked Steak,beef top round steak,flour,salt,olive oil,beef stock,Worcestershire sauce,onions,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$
-Bread Pudding in the Microwave,0,brown sugar,salt,raisins,milk,butter,eggs,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$
+Bread Pudding in the Microwave,$,brown sugar,salt,raisins,milk,butter,eggs,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$
 Ground Turkey Stroganoff,ground turkey,onion,mushroom,peas,cream of mushroom soup,milk,garlic powder,salt,pepper,sour cream,hot cooked egg noodles,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$
 Quick and Easy Chicken Enchiladas,chicken breasts,white corn tortillas,green enchilada sauce,monterey jack pepper cheese,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$
 Egg Foo Yung,eggs,fresh bean sprout,scallion,celery,water chestnuts,pork,soy sauce,peanut oil,chicken broth,soy sauce,sugar,vinegar,cornstarch,water,$,$,$,$,$,$,$,$,$,$,$,$,$,$,$
